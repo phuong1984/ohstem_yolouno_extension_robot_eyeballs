@@ -180,7 +180,7 @@ Blockly.Blocks['eyeballs_scroll_image'] = {
   init: function () {
     this.jsonInit({
       "type": "eyeballs_scroll_image",
-      "message0": "Chuyển động cuộn của biểu cảm %1 hướng %2 số bước (pixels) %3 độ trễ (giây) %4",
+      "message0": "Chuyển động cuộn của biểu cảm %1 theo hướng %2 một đoạn (pixels) %3 trong khoảng thời gian (giây) %4",
       "args0": [
         {
           "type": "field_dropdown",
