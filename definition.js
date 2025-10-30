@@ -32,26 +32,107 @@ var textEyeExpressions = [
   ["nhướn mày lên", "9"],
   ["nhướn mày xuống", "10"],
 ];
-/* var imageExpressions = [
+var imageEyeExpressions = [
   [
     {
-      "src": "images/06_eyes_sleep.png",
-      "width": 30,
+      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/01_eyes_cry.png",
+      "width": 15,
       "height": 15,
-      "alt": "Image 1"
+      "alt": "cry"
     },
     "0"
   ],
   [
     {
-      "src": "images/10_eyes_upper_lids.png",
+      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/02_eyes_distressed.png",
       "width": 30,
       "height": 15,
-      "alt": "Image 2"
+      "alt": "distressed"
     },
     "1"
-  ] 
-]; */
+  ],
+  [
+    {
+      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/03_eyes_glare.png",
+      "width": 30,
+      "height": 15,
+      "alt": "glare"
+    },
+    "2"
+  ],
+  [
+    {
+      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/04_eyes_mad.png",
+      "width": 30,
+      "height": 15,
+      "alt": "mad"
+    },
+    "3"
+  ],
+  [
+    {
+      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/05_eyes_glasses.png",
+      "width": 30,
+      "height": 15,
+      "alt": "glasses"
+    },
+    "4"
+  ],
+  [
+    {
+      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/06_eyes_sleep.png",
+      "width": 30,
+      "height": 15,
+      "alt": "sleep"
+    },
+    "5"
+  ],
+  [
+    {
+      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/07_eyes_blink_up.png",
+      "width": 30,
+      "height": 15,
+      "alt": "blink up"
+    },
+    "6"
+  ],
+  [
+    {
+      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/08_eyes_tired.png",
+      "width": 30,
+      "height": 15,
+      "alt": "tired"
+    },
+    "7"
+  ],
+  [
+    {
+      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/09_eyes_night.png",
+      "width": 30,
+      "height": 15,
+      "alt": "night"
+    },
+    "8"
+  ],
+  [
+    {
+      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/10_eyes_upper_lids.png",
+      "width": 30,
+      "height": 15,
+      "alt": "upper lids"
+    },
+    "9"
+  ],
+  [
+    {
+      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/11_eyes_lower_lids.png",
+      "width": 30,
+      "height": 15,
+      "alt": "lower lids"
+    },
+    "10"
+  ]  
+];
 
 Blockly.Blocks['eyeballs_create'] = {
   init: function () {
@@ -159,7 +240,7 @@ Blockly.Blocks['eyeballs_draw_eyes_expression'] = {
         {
           "type": "field_dropdown",
           "name": "EXPRESSION",
-          "options": textEyeExpressions
+          "options": imageEyeExpressions
         }
       ],
       "previousStatement": null,
