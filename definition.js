@@ -35,8 +35,8 @@ var textEyeExpressions = [
 var imageEyeExpressions = [
   [
     {
-      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/01_eyes_cry.png",
-      "width": 15,
+      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/01_eyes_cry.png?raw=true",
+      "width": 30,
       "height": 15,
       "alt": "cry"
     },
