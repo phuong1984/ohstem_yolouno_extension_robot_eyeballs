@@ -42,7 +42,7 @@ var imageEyeExpressions = [
     },
     "0"
   ],
-  [
+  /*[
     {
       "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/02_eyes_distressed.png",
       "width": 30,
@@ -131,7 +131,7 @@ var imageEyeExpressions = [
       "alt": "lower lids"
     },
     "10"
-  ]  
+  ]*/  
 ];
 
 Blockly.Blocks['eyeballs_create'] = {
