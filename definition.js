@@ -35,100 +35,99 @@ var textEyeExpressions = [
 var imageEyeExpressions = [
   [
     {
-      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/01_eyes_cry.png?raw=true",
+      "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/0.bmp",
       "width": 30,
       "height": 15,
-      "alt": "cry"
+      "alt": ""
     },
     "0"
   ],
   [
-    {
-      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/02_eyes_distressed.png?raw=true",
+    {https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/1.bmp",
       "width": 30,
       "height": 15,
-      "alt": "distressed"
+      "alt": ""
     },
     "1"
   ],
   [
     {
-      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/03_eyes_glare.png?raw=true",
+      "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/2.bmp",
       "width": 30,
       "height": 15,
-      "alt": "glare"
+      "alt": ""
     },
     "2"
   ],
   [
     {
-      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/04_eyes_mad.png?raw=true",
+      "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/3.bmp",
       "width": 30,
       "height": 15,
-      "alt": "mad"
+      "alt": ""
     },
     "3"
   ],
   [
     {
-      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/05_eyes_glasses.png?raw=true",
+      "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/4.bmp",
       "width": 30,
       "height": 15,
-      "alt": "glasses"
+      "alt": ""
     },
     "4"
   ],
   [
     {
-      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/06_eyes_sleep.png?raw=true",
+      "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/5.bmp",
       "width": 30,
       "height": 15,
-      "alt": "sleep"
+      "alt": ""
     },
     "5"
   ],
   [
     {
-      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/07_eyes_blink_up.png?raw=true",
+      "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/6.bmp",
       "width": 30,
       "height": 15,
-      "alt": "blink up"
+      "alt": ""
     },
     "6"
   ],
   [
     {
-      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/08_eyes_tired.png?raw=true",
+      "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/7.bmp",
       "width": 30,
       "height": 15,
-      "alt": "tired"
+      "alt": ""
     },
     "7"
   ],
   [
     {
-      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/09_eyes_night.png?raw=true",
+      "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/8.bmp",
       "width": 30,
       "height": 15,
-      "alt": "night"
+      "alt": ""
     },
     "8"
   ],
   [
     {
-      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/10_eyes_upper_lids.png?raw=true",
+      "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/9.bmp",
       "width": 30,
       "height": 15,
-      "alt": "upper lids"
+      "alt": ""
     },
     "9"
   ],
   [
     {
-      "src": "https://github.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/blob/main/images/11_eyes_lower_lids.png?raw=true",
+      "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/10.bmp",
       "width": 30,
       "height": 15,
-      "alt": "lower lids"
+      "alt": ""
     },
     "10"
   ]
