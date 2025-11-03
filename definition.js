@@ -43,7 +43,8 @@ var imageEyeExpressions = [
     "0"
   ],
   [
-    {https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/1.bmp",
+    {
+      "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/1.bmp",
       "width": 30,
       "height": 15,
       "alt": ""
