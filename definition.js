@@ -300,3 +300,23 @@ Blockly.Python['eyeballs_scroll_image'] = function (block) {
   var delay = Blockly.Python.valueToCode(block, 'DELAY', Blockly.Python.ORDER_ATOMIC);
   return 'eyeballs.scroll_image(' + index + ', ' + direction + ', ' + steps + ', ' + delay + ')\n';
 };
+
+Blockly.Blocks['eyeballs_draw_random_eyes_expression'] = {
+  init: function () {
+    this.jsonInit({
+      "type": "eyeballs_draw_eyes_expression",
+      "message0": "Vẽ biểu cảm ngẫu nhiên của mắt",
+      "args0": [
+      ],
+      "previousStatement": null,
+      "nextStatement": null,
+      "colour": eyeballsColor,
+      "tooltip": "Vẽ biểu cảm ngẫu nhiên của mắt",
+      "helpUrl": ""
+    });
+  }
+};
+
+Blockly.Python['eyeballs_draw_random_eyes_expression'] = function (block) {
+  return 'eyeballs.draw_random_eyes_expression()\n';
+};

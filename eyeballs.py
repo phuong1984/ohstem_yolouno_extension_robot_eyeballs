@@ -884,6 +884,13 @@ class EyeBalls():
         self.oled.blit(fb, 0, 0)  # buff image tại vị trí (0, 0)
         self.oled.show()
         
+    def draw_random_eyes_expression(self):
+        index = random.randint(0, len(eyes_expressions) - 1)
+        self.oled.fill(0)
+        fb = framebuf.FrameBuffer(eyes_expressions[index], 128, 64, framebuf.MONO_HLSB)
+        self.oled.blit(fb, 0, 0)  # buff image tại vị trí (0, 0)
+        self.oled.show()
+        
     def scroll_image(self, index, direction="left", steps=10, delay=0.05):
         if index < 0: index = 0
         if index >= len(eyes_expressions): index = index % len(eyes_expressions)
