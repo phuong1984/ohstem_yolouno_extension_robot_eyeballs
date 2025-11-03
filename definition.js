@@ -38,7 +38,7 @@ var imageEyeExpressions = [
       "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/0.bmp",
       "width": 30,
       "height": 15,
-      "alt": ""
+      "alt": "0"
     },
     "0"
   ],
@@ -47,7 +47,7 @@ var imageEyeExpressions = [
       "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/1.bmp",
       "width": 30,
       "height": 15,
-      "alt": ""
+      "alt": "1"
     },
     "1"
   ],
@@ -56,7 +56,7 @@ var imageEyeExpressions = [
       "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/2.bmp",
       "width": 30,
       "height": 15,
-      "alt": ""
+      "alt": "2"
     },
     "2"
   ],
@@ -65,7 +65,7 @@ var imageEyeExpressions = [
       "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/3.bmp",
       "width": 30,
       "height": 15,
-      "alt": ""
+      "alt": "3"
     },
     "3"
   ],
@@ -74,7 +74,7 @@ var imageEyeExpressions = [
       "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/4.bmp",
       "width": 30,
       "height": 15,
-      "alt": ""
+      "alt": "4"
     },
     "4"
   ],
@@ -83,7 +83,7 @@ var imageEyeExpressions = [
       "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/5.bmp",
       "width": 30,
       "height": 15,
-      "alt": ""
+      "alt": "5"
     },
     "5"
   ],
@@ -92,7 +92,7 @@ var imageEyeExpressions = [
       "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/6.bmp",
       "width": 30,
       "height": 15,
-      "alt": ""
+      "alt": "6"
     },
     "6"
   ],
@@ -101,7 +101,7 @@ var imageEyeExpressions = [
       "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/7.bmp",
       "width": 30,
       "height": 15,
-      "alt": ""
+      "alt": "7"
     },
     "7"
   ],
@@ -110,7 +110,7 @@ var imageEyeExpressions = [
       "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/8.bmp",
       "width": 30,
       "height": 15,
-      "alt": ""
+      "alt": "8"
     },
     "8"
   ],
@@ -119,7 +119,7 @@ var imageEyeExpressions = [
       "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/9.bmp",
       "width": 30,
       "height": 15,
-      "alt": ""
+      "alt": "9"
     },
     "9"
   ],
@@ -128,7 +128,7 @@ var imageEyeExpressions = [
       "src": "https://raw.githubusercontent.com/phuong1984/ohstem_yolouno_extension_robot_eyeballs/refs/heads/main/images/10.bmp",
       "width": 30,
       "height": 15,
-      "alt": ""
+      "alt": "10"
     },
     "10"
   ]
